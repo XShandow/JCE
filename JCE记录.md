@@ -46,5 +46,9 @@
   ```
 
 
-- 待续
+
+	SwxaProvider.setsymmDevice("Cipher", "SM2", "");
+
+
+- ss
 
